@@ -1,0 +1,1 @@
+Este fichero es una prueba de Git. Es una copia del archivo 'fichero.txt' y se encuentra ubicado en la carpeta 'codigo'
