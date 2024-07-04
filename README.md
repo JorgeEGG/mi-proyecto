@@ -1,1 +1,1 @@
-Este repositorio es el ejercicio que se hizo en el curso de MinTic MisionTic2020
+Este repositorio es el ejercicio que se hizo en el curso MisionTic2020 de MinTic
